@@ -1,0 +1,31 @@
+{
+	"requireCurlyBraces": [ 
+		"if", "else", "for", "while", 
+		"do", "try", "catch" 
+	],
+	"requireSpaceAfterKeywords": [
+	    "if",
+	    "else",
+	    "for",
+	    "while",
+	    "do",
+	    "switch",
+	    "return",
+	    "try",
+	    "catch"
+	],
+	"requireSpacesInFunctionExpression": {
+		"beforeOpeningCurlyBrace": true
+	},
+	"disallowSpacesInFunctionExpression": {
+		"beforeOpeningRoundBrace": true
+	},
+	"requireSpacesInsideObjectBrackets": "allButNested",
+	"disallowSpaceAfterObjectKeys": true,
+	"requireCommaBeforeLineBreak": true,
+	"requireCamelCaseOrUpperCaseIdentifiers": true,
+	"validateQuoteMarks": "'",
+	"validateIndentation": "\t",
+	"disallowMixedSpacesAndTabs": true,
+	"disallowTrailingWhitespace": true
+}

@@ -1,0 +1,7 @@
+{
+	"curly": true,
+	"eqeqeq": true,
+	"eqnull": true,
+	"browser": true,
+	"boss": true
+}

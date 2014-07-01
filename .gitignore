@@ -1,0 +1,5 @@
+client/node_modules
+server/target
+server/.classpath
+server/.project
+*.iml
